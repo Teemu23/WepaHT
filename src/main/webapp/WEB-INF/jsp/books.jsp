@@ -31,7 +31,7 @@
 
         <form>
             Etsi: <input type="input" name="search" /><br />
-            <input type="radio" name="valinta" value="name"/> Name<br/>
+            <input type="radio" name="valinta" value="name"checked/> Name<br/>
             <input type="radio" name="valinta" value="author"/> Author<br/>
             <input type="submit" value="Hae" />
         </form>
